@@ -56,4 +56,14 @@ plt.show()
 
 ## Tabular column
 
+![WhatsApp Image 2025-11-26 at 3 47 22 PM](https://github.com/user-attachments/assets/91e4dbad-bcf1-4334-b2e3-829471cc4398)
+
+
+## calculation
+
+<img width="452" height="786" alt="image" src="https://github.com/user-attachments/assets/4202f1a9-a5eb-4914-9954-62aacfb6b943" />
+
+
 ## Result
+
+frequency modulation is executed using python
